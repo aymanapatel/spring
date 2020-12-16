@@ -1,9 +1,7 @@
 = Spring
 :toc:
 
-== Bootiful
 
-- https://www.youtube.com/watch?v=t9He4vHZC24&t=109s[Bootiful Spring - GraphQL and Kotlin]
 
 
 == Spring Ecosystem
@@ -52,6 +50,7 @@
 |Youtube Channel|https://www.youtube.com/user/SpringSourceDev
 |Spring Docs|https://docs.spring.io/spring/docs/current/spring-framework-reference/
 |Spring Blog|https://spring.io/blog
+|===
 
 == Topics 
 
@@ -64,4 +63,8 @@
 |Spring Security||
 |Spring WebFlux||
 |===
+
+== Bootiful
+
+- https://www.youtube.com/watch?v=t9He4vHZC24&t=109s[Bootiful Spring - GraphQL and Kotlin]
 
