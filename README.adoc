@@ -3,7 +3,65 @@
 
 == Bootiful
 
-- [Bootiful Spring - GraphQL and Kotlin](https://www.youtube.com/watch?v=t9He4vHZC24&t=109s)
-- [Bootiful]()
-- [Bootiful]()
-- [Bootiful]()
+- https://www.youtube.com/watch?v=t9He4vHZC24&t=109s[Bootiful Spring - GraphQL and Kotlin]
+
+
+== Spring Ecosystem
+
+
+++++
+<p align="center">
+  Repository to lean ecosystem of Spring (Spring MVC, Spring Boot, Spring Security, Spring WebFlux, etc)
+</p>
+
+
+
+<p align="center">
+  <a href="https://spring.io/projects/spring-boot">
+    <img alt="Spring Boot" src="https://static.javatpoint.com/springboot/images/spring-boot-tutorial.jpg" height="70" width="70" />
+  </a>
+  <a href="https://spring.io/projects/spring-framework">
+    <img alt="Spring Boot" src="https://pbs.twimg.com/profile_images/1235870003292856320/iRG4_ojf_400x400.png" height="70" width="70" />
+  </a>  
+  <a href="https://spring.io/projects/spring-data">
+    <img alt="Spring Boot" src="https://dimitr.im/static/8f8361cc803cd49880a20b0075d60813/c6a2b/spring-data.png" height="70" width="70" />
+  </a>    
+  <a href="https://docs.spring.io/spring-framework/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-reference/html/web-reactive.html">
+    <img alt="Spring Boot" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6jKkOCtjfiRlS9Ub0n9dS38sj_bT14Mvlcav4kdp-UfSeHMFAUu3EjqS4zNn42JF9FlAkkZZCf2JKIg&usqp=CAU" height="70" width="70" />
+  </a>
+  <a href="https://spring.io/projects/spring-security">
+    <img alt="Spring Boot" src="https://imgur.com/NH5MHut.png" height="70" width="100" />
+  </a>  
+  <a href="https://spring.io/projects/spring-batch">
+    <img alt="Spring Boot" src="https://www.javacodegeeks.com/wp-content/uploads/2014/07/spring-batch-project.png" height="70" width="70" />
+  </a>  
+  <a href="https://spring.io/projects/spring-cloud">
+    <img alt="Spring Boot" src="https://pbs.twimg.com/profile_images/1235936519032049665/dBCF5aOn_400x400.png" height="70" width="70" />
+  </a>  
+
+  
+</p>
+++++
+
+== Links
+
+|===
+|Title|Link
+
+|Spring Initializer |https://start.spring.io
+|Youtube Channel|https://www.youtube.com/user/SpringSourceDev
+|Spring Docs|https://docs.spring.io/spring/docs/current/spring-framework-reference/
+|Spring Blog|https://spring.io/blog
+
+== Topics 
+
+
+|===
+|Topic|Branch|Link
+
+|Spring Boot||
+|Spring Framework||
+|Spring Security||
+|Spring WebFlux||
+|===
+
