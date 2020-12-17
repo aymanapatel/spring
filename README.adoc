@@ -21,7 +21,7 @@
   <a href="https://spring.io/projects/spring-framework">
     <img alt="Spring Boot" src="https://pbs.twimg.com/profile_images/1235870003292856320/iRG4_ojf_400x400.png" height="70" width="70" />
   </a>  
-  <a href="https://spring.io/projects/spring-data">
+  <a href="https://github.com/aymanapatel/spring/blob/main/spring-data/README.adoc">
     <img alt="Spring Boot" src="https://dimitr.im/static/8f8361cc803cd49880a20b0075d60813/c6a2b/spring-data.png" height="70" width="70" />
   </a>    
   <a href="https://docs.spring.io/spring-framework/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-reference/html/web-reactive.html">
