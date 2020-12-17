@@ -1,0 +1,51 @@
+= Spring Data
+Ayman Patel
+:toc:
+
+++++
+<p align="center">
+  Repository to lean ecosystem of Spring Data
+</p>
+
+
+
+<p align="center">
+  <a href="https://spring.io/projects/spring-data">
+    <img alt="Spring Boot" src="https://pbs.twimg.com/profile_images/1235945452304031744/w55Uc_O9_400x400.png" height="70" width="70" />
+  </a>     
+</p>
+++++
+
+image::https://res.infoq.com/articles/spring-data-intro/en/resources/spring_data_overview_small.jpg[Architecture]
+
+== Spring Data Core
+
+== JPA
+
+https://stackoverflow.com/questions/16148188/whats-the-difference-between-jpa-and-spring-data-jpa[Stackoverflow Answer]
+
+
+== Redis
+
+== REST/MVC
+
+== Cassandra
+
+
+== ElasticSearch
+
+
+== Solr
+
+== MongoDB
+
+== Couchbase
+
+== Cassandra
+
+
+== KeyValue
+
+== Neo4j
+
+== Gemfire
