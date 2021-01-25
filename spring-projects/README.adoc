@@ -1,0 +1,4 @@
+= Spring Projects
+:toc:
+
+> Self-serving POC for Spring projects. (Keep it as DDD as possible)
