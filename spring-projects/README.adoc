@@ -8,3 +8,5 @@
 == 1. https://learning.oreilly.com/library/view/spring-50-projects/9781788390415/[Build Travel site using Spring]
   1. Frontend - Thymeleaf and Angular
   2. AuthN and AutnZ - Spring Security, OAuth and LDAP
+
+== 2. https://www.youtube.com/watch?v=A-dVgRV5-Bw&t=2706s[Spring State Machine]
